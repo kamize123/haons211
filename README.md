@@ -1,4 +1,4 @@
-## 👋 Hi!, I'm Sy  Hao (Jason) | Software Maker.
+## 👋 Hi!, I'm Jason | Software Maker.
 
 ![](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
